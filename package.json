@@ -1,0 +1,21 @@
+{
+  "name": "time-zones",
+  "version": "1.0.0",
+  "description": "Parsempo's official time zones library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/parsempo/time-zones.git"
+  },
+  "keywords": [
+    "Time",
+    "Zones",
+    "Date"
+  ],
+  "author": "Parsempo",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/parsempo/time-zones#readme"
+}
