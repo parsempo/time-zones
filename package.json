@@ -17,5 +17,6 @@
   ],
   "author": "Parsempo",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/parsempo/time-zones#readme"
+  "homepage": "https://bitbucket.org/parsempo/time-zones#readme",
+  "typings": "./types.d.ts"
 }
