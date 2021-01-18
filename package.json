@@ -1,6 +1,6 @@
 {
   "name": "time-zones",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parsempo's official time zones library",
   "main": "index.js",
   "scripts": {
