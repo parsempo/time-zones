@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/parsempo/time-zones.git"
+    "url": "git+ssh://git@github.com:parsempo/time-zones.git"
   },
   "keywords": [
     "Time",
@@ -17,6 +17,6 @@
   ],
   "author": "Parsempo",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/parsempo/time-zones#readme",
+  "homepage": "https://github.com/parsempo/time-zones",
   "typings": "./types.d.ts"
 }
